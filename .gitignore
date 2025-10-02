@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Replit
+.replit
+replit.nix
+.config/
+.upm/
+.cache/
+.pythonlibs/
